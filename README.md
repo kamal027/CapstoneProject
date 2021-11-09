@@ -6,11 +6,11 @@ https://github.com/kamal027/CapstoneProject.git
 Files in this Repository:
 
   1) Credit Card Fraud Detection.ipynb
-       Python code file for the project
+       
   2) Credit Card Fraud Detection.html
-        Output HTML file of the code
+      
   3) Credit Card Fraud Detection - Literature Review.doc
-        Project Report
+     
         
 Dataset Link : "Credit Card Fraud Detection":  https://www.kaggle.com/mlg-ulb/creditcardfraud
 
